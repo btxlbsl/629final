@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>yibofang</class>
+ <widget class="QWidget" name="yibofang">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>279</width>
+    <height>411</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QListWidget" name="listWidget">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>20</y>
+     <width>221</width>
+     <height>301</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QListWidget {
+        background-color:rgba(255,255,255,10);
+    }</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="love_songs">
+   <property name="geometry">
+    <rect>
+     <x>-2</x>
+     <y>-7</y>
+     <width>291</width>
+     <height>421</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <zorder>love_songs</zorder>
+  <zorder>listWidget</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

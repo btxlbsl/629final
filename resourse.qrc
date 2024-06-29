@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/music">
+        <file>music_resource/爱情转移 - 陈奕迅.flac</file>
+        <file>music_resource/爱情转移 - 陈奕迅.lrc</file>
+        <file>music_resource/爱情转移 - 陈奕迅.webp</file>
+        <file>music_resource/不要说话 - 陈奕迅.flac</file>
+        <file>music_resource/不要说话 - 陈奕迅.lrc</file>
+        <file>music_resource/不要说话 - 陈奕迅.webp</file>
+        <file>music_resource/孤勇者 - 陈奕迅.flac</file>
+        <file>music_resource/孤勇者 - 陈奕迅.lrc</file>
+        <file>music_resource/孤勇者 - 陈奕迅.webp</file>
+        <file>music_resource/K歌之王 - 陈奕迅.flac</file>
+        <file>music_resource/K歌之王 - 陈奕迅.lrc</file>
+        <file>music_resource/K歌之王 - 陈奕迅.webp</file>
+        <file>music_resource/浮夸 - 陈奕迅.flac</file>
+        <file>music_resource/浮夸 - 陈奕迅.lrc</file>
+        <file>music_resource/浮夸 - 陈奕迅.webp</file>
+        <file>music_resource/十年 - 陈奕迅.flac</file>
+        <file>music_resource/十年 - 陈奕迅.lrc</file>
+        <file>music_resource/十年 - 陈奕迅.webp</file>
+    </qresource>
+    <qresource prefix="/image">
+        <file>images/black.png</file>
+        <file>images/guessyoulove.png</file>
+        <file>images/white.png</file>
+        <file>images/haveplay.jpg</file>
+    </qresource>
+</RCC>

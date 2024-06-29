@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icons/bofang.png</file>
+        <file>icons/bofangliebiao.png</file>
+        <file>icons/chazhao.png</file>
+        <file>icons/chuangkouzuidahua.png</file>
+        <file>icons/danjiweixuanzhong.png</file>
+        <file>icons/danjixuanzhong.png</file>
+        <file>icons/danquxunhuan.png</file>
+        <file>icons/geciweidianji.png</file>
+        <file>icons/geciyidianji.png</file>
+        <file>icons/gengduo.png</file>
+        <file>icons/guanbi.png</file>
+        <file>icons/hengxian.png</file>
+        <file>icons/jingyin.png</file>
+        <file>icons/liebiao.png</file>
+        <file>icons/pifu.png</file>
+        <file>icons/pinglun.png</file>
+        <file>icons/shangyishou.png</file>
+        <file>icons/shixin.png</file>
+        <file>icons/shunxubofang.png</file>
+        <file>icons/suijibofang.png</file>
+        <file>icons/wenjianjia.png</file>
+        <file>icons/xiayishou.png</file>
+        <file>icons/xiazai.png</file>
+        <file>icons/xin.png</file>
+        <file>icons/yinliang.png</file>
+        <file>icons/yuandian.png</file>
+        <file>icons/zanting.png</file>
+        <file>icons/zengjia.png</file>
+        <file>icons/zuidahua.png</file>
+        <file>icons/zuixiaohua.png</file>
+    </qresource>
+</RCC>
